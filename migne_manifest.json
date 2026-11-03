@@ -1,0 +1,1977 @@
+{
+  "PL": {
+    "1": {
+      "file": "PL_001.la.md",
+      "author": "Tertullianus (Apologeticus, Ad Martyres, De Spectaculis)",
+      "status": "converted"
+    },
+    "2": {
+      "file": "PL_002.la.md",
+      "author": "Tertullianus (De Virginibus Velandis, De Corona, Adversus Marcionem)",
+      "status": "converted"
+    },
+    "3": {
+      "file": "PL_003.la.md",
+      "author": "Minucius Felix, Cornelius Papa, Novatianus, S. Stephanus I",
+      "status": "converted"
+    },
+    "4": {
+      "file": "PL_004.la.md",
+      "author": "S. Cyprianus Carthaginensis (Epistolae, De Unitate Ecclesiae)",
+      "status": "converted"
+    },
+    "5": {
+      "file": "PL_005.la.md",
+      "author": "S. Cornelius, S. Lucius I, Arnobius Afer (Adversus Nationes)",
+      "status": "converted"
+    },
+    "6": {
+      "file": "PL_006.la.md",
+      "author": "Lactantius (Divinae Institutiones)",
+      "status": "converted"
+    },
+    "7": {
+      "file": "PL_007.la.md",
+      "author": "Lactantius (De Opificio Dei, De Mortibus Persecutorum)",
+      "status": "converted"
+    },
+    "8": {
+      "file": "PL_008.la.md",
+      "author": "Constantinus Magnus, S. Sylvester Papa, S. Marcus Papa",
+      "status": "converted"
+    },
+    "9": {
+      "file": "PL_009.la.md",
+      "author": "S. Hilarius Pictaviensis (De Trinitate Libri XII)",
+      "status": "converted"
+    },
+    "10": {
+      "file": "PL_010.la.md",
+      "author": "S. Hilarius Pictaviensis (Commentarius in Matthaeum et Psalmos)",
+      "status": "converted"
+    },
+    "11": {
+      "file": "PL_011.la.md",
+      "author": "S. Zeno Veronensis (Sermones), S. Optatus Milevitanus",
+      "status": "converted"
+    },
+    "12": {
+      "file": "PL_012.la.md",
+      "author": "S. Eusebius Vercellensis, S. Damasus I Papa, S. Pacianus",
+      "status": "converted"
+    },
+    "13": {
+      "file": "PL_013.la.md",
+      "author": "S. Damasus Papa, S. Ambrosius (De Fide, De Spiritu Sancto)",
+      "status": "converted"
+    },
+    "14": {
+      "file": "PL_014.la.md",
+      "author": "S. Ambrosius Mediolanensis (Hexaemeron, De Paradiso)",
+      "status": "converted"
+    },
+    "15": {
+      "file": "PL_015.la.md",
+      "author": "S. Ambrosius Mediolanensis (Expositio in Lucam)",
+      "status": "converted"
+    },
+    "16": {
+      "file": "PL_016.la.md",
+      "author": "S. Ambrosius Mediolanensis (De Officiis Ministrorum, Epistolae)",
+      "status": "converted"
+    },
+    "17": {
+      "file": "PL_017.la.md",
+      "author": "S. Ambrosius Mediolanensis (De Mysteriis, De Sacramentis)",
+      "status": "converted"
+    },
+    "18": {
+      "file": "PL_018.la.md",
+      "author": "S. Martinus Turonensis, Tichonius, S. Siricius Papa",
+      "status": "converted"
+    },
+    "19": {
+      "file": "PL_019.la.md",
+      "author": "Iuvencus, Sedulius, S. Paulinus Nolanus",
+      "status": "converted"
+    },
+    "20": {
+      "file": "PL_020.la.md",
+      "author": "S. Paulinus Nolanus, S. Gaudentius, Severus Sulpicius",
+      "status": "converted"
+    },
+    "21": {
+      "file": "PL_021.la.md",
+      "author": "Rufinus Aquileiensis (Historia Ecclesiastica, De Symbolo)",
+      "status": "converted"
+    },
+    "22": {
+      "file": "PL_022.la.md",
+      "author": "S. Hieronymus Stridonensis (Epistolae)",
+      "status": "converted"
+    },
+    "23": {
+      "file": "PL_023.la.md",
+      "author": "S. Hieronymus Stridonensis (De Viris Illustribus, Contra Iovinianum)",
+      "status": "converted"
+    },
+    "24": {
+      "file": "PL_024.la.md",
+      "author": "S. Hieronymus Stridonensis (Commentarii in Isaiam)",
+      "status": "converted"
+    },
+    "25": {
+      "file": "PL_025.la.md",
+      "author": "S. Hieronymus Stridonensis (Commentarii in Ieremiam et Ezechielem)",
+      "status": "converted"
+    },
+    "26": {
+      "file": "PL_026.la.md",
+      "author": "S. Hieronymus Stridonensis (Commentarii in Danielem et Prophetas Minores)",
+      "status": "converted"
+    },
+    "27": {
+      "file": "PL_027.la.md",
+      "author": "S. Hieronymus Stridonensis (Commentarii in Matthaeum et Galatas)",
+      "status": "converted"
+    },
+    "28": {
+      "file": "PL_028.la.md",
+      "author": "S. Hieronymus Stridonensis (Vulgata Vetus Testamentum)",
+      "status": "converted"
+    },
+    "29": {
+      "file": "PL_029.la.md",
+      "author": "S. Hieronymus Stridonensis (Vulgata Novum Testamentum)",
+      "status": "converted"
+    },
+    "30": {
+      "file": "PL_030.la.md",
+      "author": "S. Hieronymus Stridonensis (Opera Varia, Epistolae Supposititiae)",
+      "status": "converted"
+    },
+    "31": {
+      "file": "PL_031.la.md",
+      "author": "S. Innocentius I Papa, S. Zosimus, S. Bonifacius I",
+      "status": "converted"
+    },
+    "32": {
+      "file": "PL_032.la.md",
+      "author": "S. Aurelius Augustinus (Confessiones, De Civitate Dei I-X)",
+      "status": "converted",
+      "section": "Corpus Augustinianum",
+      "corpus_augustinianum_dir": "Corpus_Augustinianum",
+      "individual_treatises_available": true
+    },
+    "33": {
+      "file": "PL_033.la.md",
+      "author": "S. Aurelius Augustinus (Epistolae)",
+      "status": "converted",
+      "section": "Corpus Augustinianum",
+      "corpus_augustinianum_dir": "Corpus_Augustinianum",
+      "individual_treatises_available": true
+    },
+    "34": {
+      "file": "PL_034.la.md",
+      "author": "S. Aurelius Augustinus (De Doctrina Christiana, De Genesi ad Litteram)",
+      "status": "converted",
+      "section": "Corpus Augustinianum",
+      "corpus_augustinianum_dir": "Corpus_Augustinianum",
+      "individual_treatises_available": true
+    },
+    "35": {
+      "file": "PL_035.la.md",
+      "author": "S. Aurelius Augustinus (In Epistolam Ioannis, In Ioannis Evangelium)",
+      "status": "converted",
+      "section": "Corpus Augustinianum",
+      "corpus_augustinianum_dir": "Corpus_Augustinianum",
+      "individual_treatises_available": true
+    },
+    "36": {
+      "file": "PL_036.la.md",
+      "author": "S. Aurelius Augustinus (Enarrationes in Psalmos I-LXX)",
+      "status": "converted",
+      "section": "Corpus Augustinianum",
+      "corpus_augustinianum_dir": "Corpus_Augustinianum",
+      "individual_treatises_available": true
+    },
+    "37": {
+      "file": "PL_037.la.md",
+      "author": "S. Aurelius Augustinus (Enarrationes in Psalmos LXXI-CL)",
+      "status": "converted",
+      "section": "Corpus Augustinianum",
+      "corpus_augustinianum_dir": "Corpus_Augustinianum",
+      "individual_treatises_available": true
+    },
+    "38": {
+      "file": "PL_038.la.md",
+      "author": "S. Aurelius Augustinus (Sermones de Scripturis I-CL)",
+      "status": "converted",
+      "section": "Corpus Augustinianum",
+      "corpus_augustinianum_dir": "Corpus_Augustinianum",
+      "individual_treatises_available": true
+    },
+    "39": {
+      "file": "PL_039.la.md",
+      "author": "S. Aurelius Augustinus (Sermones de Tempore et de Sanctis)",
+      "status": "converted",
+      "section": "Corpus Augustinianum",
+      "corpus_augustinianum_dir": "Corpus_Augustinianum",
+      "individual_treatises_available": true
+    },
+    "40": {
+      "file": "PL_040.la.md",
+      "author": "S. Aurelius Augustinus (De Trinitate Libri XV)",
+      "status": "converted",
+      "section": "Corpus Augustinianum",
+      "corpus_augustinianum_dir": "Corpus_Augustinianum",
+      "individual_treatises_available": true
+    },
+    "41": {
+      "file": "PL_041.la.md",
+      "author": "S. Aurelius Augustinus (De Civitate Dei Libri XXII)",
+      "status": "converted",
+      "section": "Corpus Augustinianum",
+      "corpus_augustinianum_dir": "Corpus_Augustinianum",
+      "individual_treatises_available": true
+    },
+    "42": {
+      "file": "PL_042.la.md",
+      "author": "S. Aurelius Augustinus (De Natura et Gratia, Contra Faustum Manichaeum)",
+      "status": "converted",
+      "section": "Corpus Augustinianum",
+      "corpus_augustinianum_dir": "Corpus_Augustinianum",
+      "individual_treatises_available": true
+    },
+    "43": {
+      "file": "PL_043.la.md",
+      "author": "S. Aurelius Augustinus (Contra Donatistas, De Baptismo)",
+      "status": "converted",
+      "section": "Corpus Augustinianum",
+      "corpus_augustinianum_dir": "Corpus_Augustinianum",
+      "individual_treatises_available": true
+    },
+    "44": {
+      "file": "PL_044.la.md",
+      "author": "S. Aurelius Augustinus (De Peccatorum Meritis, De Gratia et Libero Arbitrio)",
+      "status": "converted",
+      "section": "Corpus Augustinianum",
+      "corpus_augustinianum_dir": "Corpus_Augustinianum",
+      "individual_treatises_available": true
+    },
+    "45": {
+      "file": "PL_045.la.md",
+      "author": "S. Aurelius Augustinus (Contra Iulianum Pelagianum, Opus Imperfectum)",
+      "status": "converted",
+      "section": "Corpus Augustinianum",
+      "corpus_augustinianum_dir": "Corpus_Augustinianum",
+      "individual_treatises_available": true
+    },
+    "46": {
+      "file": "PL_046.la.md",
+      "author": "S. Aurelius Augustinus (Indices et Opera Spuria)",
+      "status": "converted",
+      "section": "Corpus Augustinianum",
+      "corpus_augustinianum_dir": "Corpus_Augustinianum",
+      "individual_treatises_available": true
+    },
+    "47": {
+      "file": "PL_047.la.md",
+      "author": "S. Aurelius Augustinus (Appendix et Commentaria)",
+      "status": "converted",
+      "section": "Corpus Augustinianum",
+      "corpus_augustinianum_dir": "Corpus_Augustinianum",
+      "individual_treatises_available": true
+    },
+    "48": {
+      "file": "PL_048.la.md",
+      "author": "Patres Latini Saeculi (Volumen 48)",
+      "status": "converted"
+    },
+    "49": {
+      "file": "PL_049.la.md",
+      "author": "Patres Latini Saeculi (Volumen 49)",
+      "status": "converted"
+    },
+    "50": {
+      "file": "PL_050.la.md",
+      "author": "Patres Latini Saeculi (Volumen 50)",
+      "status": "converted"
+    },
+    "51": {
+      "file": "PL_051.la.md",
+      "author": "Patres Latini Saeculi (Volumen 51)",
+      "status": "converted"
+    },
+    "52": {
+      "file": "PL_052.la.md",
+      "author": "Patres Latini Saeculi (Volumen 52)",
+      "status": "converted"
+    },
+    "53": {
+      "file": "PL_053.la.md",
+      "author": "Patres Latini Saeculi (Volumen 53)",
+      "status": "converted"
+    },
+    "54": {
+      "file": "PL_054.la.md",
+      "author": "Patres Latini Saeculi (Volumen 54)",
+      "status": "converted"
+    },
+    "55": {
+      "file": "PL_055.la.md",
+      "author": "Patres Latini Saeculi (Volumen 55)",
+      "status": "converted"
+    },
+    "56": {
+      "file": "PL_056.la.md",
+      "author": "Patres Latini Saeculi (Volumen 56)",
+      "status": "converted"
+    },
+    "57": {
+      "file": "PL_057.la.md",
+      "author": "Patres Latini Saeculi (Volumen 57)",
+      "status": "converted"
+    },
+    "58": {
+      "file": "PL_058.la.md",
+      "author": "Patres Latini Saeculi (Volumen 58)",
+      "status": "converted"
+    },
+    "59": {
+      "file": "PL_059.la.md",
+      "author": "Patres Latini Saeculi (Volumen 59)",
+      "status": "converted"
+    },
+    "60": {
+      "file": "PL_060.la.md",
+      "author": "Patres Latini Saeculi (Volumen 60)",
+      "status": "converted"
+    },
+    "61": {
+      "file": "PL_061.la.md",
+      "author": "Patres Latini Saeculi (Volumen 61)",
+      "status": "converted"
+    },
+    "62": {
+      "file": "PL_062.la.md",
+      "author": "Patres Latini Saeculi (Volumen 62)",
+      "status": "converted"
+    },
+    "63": {
+      "file": "PL_063.la.md",
+      "author": "Patres Latini Saeculi (Volumen 63)",
+      "status": "converted"
+    },
+    "64": {
+      "file": "PL_064.la.md",
+      "author": "Patres Latini Saeculi (Volumen 64)",
+      "status": "converted"
+    },
+    "65": {
+      "file": "PL_065.la.md",
+      "author": "Patres Latini Saeculi (Volumen 65)",
+      "status": "converted"
+    },
+    "66": {
+      "file": "PL_066.la.md",
+      "author": "Patres Latini Saeculi (Volumen 66)",
+      "status": "converted"
+    },
+    "67": {
+      "file": "PL_067.la.md",
+      "author": "Patres Latini Saeculi (Volumen 67)",
+      "status": "converted"
+    },
+    "68": {
+      "file": "PL_068.la.md",
+      "author": "Patres Latini Saeculi (Volumen 68)",
+      "status": "converted"
+    },
+    "69": {
+      "file": "PL_069.la.md",
+      "author": "Patres Latini Saeculi (Volumen 69)",
+      "status": "converted"
+    },
+    "70": {
+      "file": "PL_070.la.md",
+      "author": "Patres Latini Saeculi (Volumen 70)",
+      "status": "converted"
+    },
+    "71": {
+      "file": "PL_071.la.md",
+      "author": "Patres Latini Saeculi (Volumen 71)",
+      "status": "converted"
+    },
+    "72": {
+      "file": "PL_072.la.md",
+      "author": "Patres Latini Saeculi (Volumen 72)",
+      "status": "converted"
+    },
+    "73": {
+      "file": "PL_073.la.md",
+      "author": "Patres Latini Saeculi (Volumen 73)",
+      "status": "converted"
+    },
+    "74": {
+      "file": "PL_074.la.md",
+      "author": "Patres Latini Saeculi (Volumen 74)",
+      "status": "converted"
+    },
+    "75": {
+      "file": "PL_075.la.md",
+      "author": "S. Gregorius Magnus (Moralia in Iob Libri I-XVI)",
+      "status": "converted"
+    },
+    "76": {
+      "file": "PL_076.la.md",
+      "author": "S. Gregorius Magnus (Moralia in Iob Libri XVII-XXXV)",
+      "status": "converted"
+    },
+    "77": {
+      "file": "PL_077.la.md",
+      "author": "S. Gregorius Magnus (Regula Pastoralis, Dialogorum Libri IV)",
+      "status": "converted"
+    },
+    "78": {
+      "file": "PL_078.la.md",
+      "author": "S. Gregorius Magnus (Liber Sacramentorum, Liber Antiphonarius)",
+      "status": "converted"
+    },
+    "79": {
+      "file": "PL_079.la.md",
+      "author": "S. Gregorius Magnus (Registrum Epistolarum Libri I-XIV)",
+      "status": "converted"
+    },
+    "80": {
+      "file": "PL_080.la.md",
+      "author": "Patres Latini Saeculi (Volumen 80)",
+      "status": "converted"
+    },
+    "81": {
+      "file": "PL_081.la.md",
+      "author": "Patres Latini Saeculi (Volumen 81)",
+      "status": "converted"
+    },
+    "82": {
+      "file": "PL_082.la.md",
+      "author": "Patres Latini Saeculi (Volumen 82)",
+      "status": "converted"
+    },
+    "83": {
+      "file": "PL_083.la.md",
+      "author": "Patres Latini Saeculi (Volumen 83)",
+      "status": "converted"
+    },
+    "84": {
+      "file": "PL_084.la.md",
+      "author": "Patres Latini Saeculi (Volumen 84)",
+      "status": "converted"
+    },
+    "85": {
+      "file": "PL_085.la.md",
+      "author": "Patres Latini Saeculi (Volumen 85)",
+      "status": "converted"
+    },
+    "86": {
+      "file": "PL_086.la.md",
+      "author": "Patres Latini Saeculi (Volumen 86)",
+      "status": "converted"
+    },
+    "87": {
+      "file": "PL_087.la.md",
+      "author": "Patres Latini Saeculi (Volumen 87)",
+      "status": "converted"
+    },
+    "88": {
+      "file": "PL_088.la.md",
+      "author": "Patres Latini Saeculi (Volumen 88)",
+      "status": "converted"
+    },
+    "89": {
+      "file": "PL_089.la.md",
+      "author": "Patres Latini Saeculi (Volumen 89)",
+      "status": "converted"
+    },
+    "90": {
+      "file": "PL_090.la.md",
+      "author": "Patres Latini Saeculi (Volumen 90)",
+      "status": "converted"
+    },
+    "91": {
+      "file": "PL_091.la.md",
+      "author": "Patres Latini Saeculi (Volumen 91)",
+      "status": "converted"
+    },
+    "92": {
+      "file": "PL_092.la.md",
+      "author": "Patres Latini Saeculi (Volumen 92)",
+      "status": "converted"
+    },
+    "93": {
+      "file": "PL_093.la.md",
+      "author": "Patres Latini Saeculi (Volumen 93)",
+      "status": "converted"
+    },
+    "94": {
+      "file": "PL_094.la.md",
+      "author": "Patres Latini Saeculi (Volumen 94)",
+      "status": "converted"
+    },
+    "95": {
+      "file": "PL_095.la.md",
+      "author": "Patres Latini Saeculi (Volumen 95)",
+      "status": "converted"
+    },
+    "96": {
+      "file": "PL_096.la.md",
+      "author": "Patres Latini Saeculi (Volumen 96)",
+      "status": "converted"
+    },
+    "97": {
+      "file": "PL_097.la.md",
+      "author": "Patres Latini Saeculi (Volumen 97)",
+      "status": "converted"
+    },
+    "98": {
+      "file": "PL_098.la.md",
+      "author": "Patres Latini Saeculi (Volumen 98)",
+      "status": "converted"
+    },
+    "99": {
+      "file": "PL_099.la.md",
+      "author": "Patres Latini Saeculi (Volumen 99)",
+      "status": "converted"
+    },
+    "100": {
+      "file": "PL_100.la.md",
+      "author": "Patres Latini Saeculi (Volumen 100)",
+      "status": "converted"
+    },
+    "101": {
+      "file": "PL_101.la.md",
+      "author": "Patres Latini Saeculi (Volumen 101)",
+      "status": "converted"
+    },
+    "102": {
+      "file": "PL_102.la.md",
+      "author": "Patres Latini Saeculi (Volumen 102)",
+      "status": "converted"
+    },
+    "103": {
+      "file": "PL_103.la.md",
+      "author": "Patres Latini Saeculi (Volumen 103)",
+      "status": "converted"
+    },
+    "104": {
+      "file": "PL_104.la.md",
+      "author": "Patres Latini Saeculi (Volumen 104)",
+      "status": "converted"
+    },
+    "105": {
+      "file": "PL_105.la.md",
+      "author": "Patres Latini Saeculi (Volumen 105)",
+      "status": "converted"
+    },
+    "106": {
+      "file": "PL_106.la.md",
+      "author": "Patres Latini Saeculi (Volumen 106)",
+      "status": "converted"
+    },
+    "107": {
+      "file": "PL_107.la.md",
+      "author": "Patres Latini Saeculi (Volumen 107)",
+      "status": "converted"
+    },
+    "108": {
+      "file": "PL_108.la.md",
+      "author": "Patres Latini Saeculi (Volumen 108)",
+      "status": "converted"
+    },
+    "109": {
+      "file": "PL_109.la.md",
+      "author": "Patres Latini Saeculi (Volumen 109)",
+      "status": "converted"
+    },
+    "110": {
+      "file": "PL_110.la.md",
+      "author": "Patres Latini Saeculi (Volumen 110)",
+      "status": "converted"
+    },
+    "111": {
+      "file": "PL_111.la.md",
+      "author": "Patres Latini Saeculi (Volumen 111)",
+      "status": "converted"
+    },
+    "112": {
+      "file": "PL_112.la.md",
+      "author": "Patres Latini Saeculi (Volumen 112)",
+      "status": "converted"
+    },
+    "113": {
+      "file": "PL_113.la.md",
+      "author": "Patres Latini Saeculi (Volumen 113)",
+      "status": "converted"
+    },
+    "114": {
+      "file": "PL_114.la.md",
+      "author": "Patres Latini Saeculi (Volumen 114)",
+      "status": "converted"
+    },
+    "115": {
+      "file": "PL_115.la.md",
+      "author": "Patres Latini Saeculi (Volumen 115)",
+      "status": "converted"
+    },
+    "116": {
+      "file": "PL_116.la.md",
+      "author": "Patres Latini Saeculi (Volumen 116)",
+      "status": "converted"
+    },
+    "117": {
+      "file": "PL_117.la.md",
+      "author": "Patres Latini Saeculi (Volumen 117)",
+      "status": "converted"
+    },
+    "118": {
+      "file": "PL_118.la.md",
+      "author": "Patres Latini Saeculi (Volumen 118)",
+      "status": "converted"
+    },
+    "119": {
+      "file": "PL_119.la.md",
+      "author": "Patres Latini Saeculi (Volumen 119)",
+      "status": "converted"
+    },
+    "120": {
+      "file": "PL_120.la.md",
+      "author": "Patres Latini Saeculi (Volumen 120)",
+      "status": "converted"
+    },
+    "121": {
+      "file": "PL_121.la.md",
+      "author": "Patres Latini Saeculi (Volumen 121)",
+      "status": "converted"
+    },
+    "122": {
+      "file": "PL_122.la.md",
+      "author": "Patres Latini Saeculi (Volumen 122)",
+      "status": "converted"
+    },
+    "123": {
+      "file": "PL_123.la.md",
+      "author": "Patres Latini Saeculi (Volumen 123)",
+      "status": "converted"
+    },
+    "124": {
+      "file": "PL_124.la.md",
+      "author": "Patres Latini Saeculi (Volumen 124)",
+      "status": "converted"
+    },
+    "125": {
+      "file": "PL_125.la.md",
+      "author": "Patres Latini Saeculi (Volumen 125)",
+      "status": "converted"
+    },
+    "126": {
+      "file": "PL_126.la.md",
+      "author": "Patres Latini Saeculi (Volumen 126)",
+      "status": "converted"
+    },
+    "127": {
+      "file": "PL_127.la.md",
+      "author": "Patres Latini Saeculi (Volumen 127)",
+      "status": "converted"
+    },
+    "128": {
+      "file": "PL_128.la.md",
+      "author": "Patres Latini Saeculi (Volumen 128)",
+      "status": "converted"
+    },
+    "129": {
+      "file": "PL_129.la.md",
+      "author": "Patres Latini Saeculi (Volumen 129)",
+      "status": "converted"
+    },
+    "130": {
+      "file": "PL_130.la.md",
+      "author": "Patres Latini Saeculi (Volumen 130)",
+      "status": "converted"
+    },
+    "131": {
+      "file": "PL_131.la.md",
+      "author": "Patres Latini Saeculi (Volumen 131)",
+      "status": "converted"
+    },
+    "132": {
+      "file": "PL_132.la.md",
+      "author": "Patres Latini Saeculi (Volumen 132)",
+      "status": "converted"
+    },
+    "133": {
+      "file": "PL_133.la.md",
+      "author": "Patres Latini Saeculi (Volumen 133)",
+      "status": "converted"
+    },
+    "134": {
+      "file": "PL_134.la.md",
+      "author": "Patres Latini Saeculi (Volumen 134)",
+      "status": "converted"
+    },
+    "135": {
+      "file": "PL_135.la.md",
+      "author": "Patres Latini Saeculi (Volumen 135)",
+      "status": "converted"
+    },
+    "136": {
+      "file": "PL_136.la.md",
+      "author": "Patres Latini Saeculi (Volumen 136)",
+      "status": "converted"
+    },
+    "137": {
+      "file": "PL_137.la.md",
+      "author": "Patres Latini Saeculi (Volumen 137)",
+      "status": "converted"
+    },
+    "138": {
+      "file": "PL_138.la.md",
+      "author": "Patres Latini Saeculi (Volumen 138)",
+      "status": "converted"
+    },
+    "139": {
+      "file": "PL_139.la.md",
+      "author": "Patres Latini Saeculi (Volumen 139)",
+      "status": "converted"
+    },
+    "140": {
+      "file": "PL_140.la.md",
+      "author": "Patres Latini Saeculi (Volumen 140)",
+      "status": "converted"
+    },
+    "141": {
+      "file": "PL_141.la.md",
+      "author": "Patres Latini Saeculi (Volumen 141)",
+      "status": "converted"
+    },
+    "142": {
+      "file": "PL_142.la.md",
+      "author": "Patres Latini Saeculi (Volumen 142)",
+      "status": "converted"
+    },
+    "143": {
+      "file": "PL_143.la.md",
+      "author": "Patres Latini Saeculi (Volumen 143)",
+      "status": "converted"
+    },
+    "144": {
+      "file": "PL_144.la.md",
+      "author": "Patres Latini Saeculi (Volumen 144)",
+      "status": "converted"
+    },
+    "145": {
+      "file": "PL_145.la.md",
+      "author": "Patres Latini Saeculi (Volumen 145)",
+      "status": "converted"
+    },
+    "146": {
+      "file": "PL_146.la.md",
+      "author": "Patres Latini Saeculi (Volumen 146)",
+      "status": "converted"
+    },
+    "147": {
+      "file": "PL_147.la.md",
+      "author": "Patres Latini Saeculi (Volumen 147)",
+      "status": "converted"
+    },
+    "148": {
+      "file": "PL_148.la.md",
+      "author": "Patres Latini Saeculi (Volumen 148)",
+      "status": "converted"
+    },
+    "149": {
+      "file": "PL_149.la.md",
+      "author": "Patres Latini Saeculi (Volumen 149)",
+      "status": "converted"
+    },
+    "150": {
+      "file": "PL_150.la.md",
+      "author": "Patres Latini Saeculi (Volumen 150)",
+      "status": "converted"
+    },
+    "151": {
+      "file": "PL_151.la.md",
+      "author": "Patres Latini Saeculi (Volumen 151)",
+      "status": "converted"
+    },
+    "152": {
+      "file": "PL_152.la.md",
+      "author": "Patres Latini Saeculi (Volumen 152)",
+      "status": "converted"
+    },
+    "153": {
+      "file": "PL_153.la.md",
+      "author": "Patres Latini Saeculi (Volumen 153)",
+      "status": "converted"
+    },
+    "154": {
+      "file": "PL_154.la.md",
+      "author": "Patres Latini Saeculi (Volumen 154)",
+      "status": "converted"
+    },
+    "155": {
+      "file": "PL_155.la.md",
+      "author": "Patres Latini Saeculi (Volumen 155)",
+      "status": "converted"
+    },
+    "156": {
+      "file": "PL_156.la.md",
+      "author": "Patres Latini Saeculi (Volumen 156)",
+      "status": "converted"
+    },
+    "157": {
+      "file": "PL_157.la.md",
+      "author": "Patres Latini Saeculi (Volumen 157)",
+      "status": "converted"
+    },
+    "158": {
+      "file": "PL_158.la.md",
+      "author": "Patres Latini Saeculi (Volumen 158)",
+      "status": "converted"
+    },
+    "159": {
+      "file": "PL_159.la.md",
+      "author": "Patres Latini Saeculi (Volumen 159)",
+      "status": "converted"
+    },
+    "160": {
+      "file": "PL_160.la.md",
+      "author": "Patres Latini Saeculi (Volumen 160)",
+      "status": "converted"
+    },
+    "161": {
+      "file": "PL_161.la.md",
+      "author": "Patres Latini Saeculi (Volumen 161)",
+      "status": "converted"
+    },
+    "162": {
+      "file": "PL_162.la.md",
+      "author": "Patres Latini Saeculi (Volumen 162)",
+      "status": "converted"
+    },
+    "163": {
+      "file": "PL_163.la.md",
+      "author": "Patres Latini Saeculi (Volumen 163)",
+      "status": "converted"
+    },
+    "164": {
+      "file": "PL_164.la.md",
+      "author": "Patres Latini Saeculi (Volumen 164)",
+      "status": "converted"
+    },
+    "165": {
+      "file": "PL_165.la.md",
+      "author": "Patres Latini Saeculi (Volumen 165)",
+      "status": "converted"
+    },
+    "166": {
+      "file": "PL_166.la.md",
+      "author": "Patres Latini Saeculi (Volumen 166)",
+      "status": "converted"
+    },
+    "167": {
+      "file": "PL_167.la.md",
+      "author": "Patres Latini Saeculi (Volumen 167)",
+      "status": "converted"
+    },
+    "168": {
+      "file": "PL_168.la.md",
+      "author": "Patres Latini Saeculi (Volumen 168)",
+      "status": "converted"
+    },
+    "169": {
+      "file": "PL_169.la.md",
+      "author": "Patres Latini Saeculi (Volumen 169)",
+      "status": "converted"
+    },
+    "170": {
+      "file": "PL_170.la.md",
+      "author": "Patres Latini Saeculi (Volumen 170)",
+      "status": "converted"
+    },
+    "171": {
+      "file": "PL_171.la.md",
+      "author": "Patres Latini Saeculi (Volumen 171)",
+      "status": "converted"
+    },
+    "172": {
+      "file": "PL_172.la.md",
+      "author": "Patres Latini Saeculi (Volumen 172)",
+      "status": "converted"
+    },
+    "173": {
+      "file": "PL_173.la.md",
+      "author": "Patres Latini Saeculi (Volumen 173)",
+      "status": "converted"
+    },
+    "174": {
+      "file": "PL_174.la.md",
+      "author": "Patres Latini Saeculi (Volumen 174)",
+      "status": "converted"
+    },
+    "175": {
+      "file": "PL_175.la.md",
+      "author": "Patres Latini Saeculi (Volumen 175)",
+      "status": "converted"
+    },
+    "176": {
+      "file": "PL_176.la.md",
+      "author": "Patres Latini Saeculi (Volumen 176)",
+      "status": "converted"
+    },
+    "177": {
+      "file": "PL_177.la.md",
+      "author": "Patres Latini Saeculi (Volumen 177)",
+      "status": "converted"
+    },
+    "178": {
+      "file": "PL_178.la.md",
+      "author": "Patres Latini Saeculi (Volumen 178)",
+      "status": "converted"
+    },
+    "179": {
+      "file": "PL_179.la.md",
+      "author": "Patres Latini Saeculi (Volumen 179)",
+      "status": "converted"
+    },
+    "180": {
+      "file": "PL_180.la.md",
+      "author": "Patres Latini Saeculi (Volumen 180)",
+      "status": "converted"
+    },
+    "181": {
+      "file": "PL_181.la.md",
+      "author": "Patres Latini Saeculi (Volumen 181)",
+      "status": "converted"
+    },
+    "182": {
+      "file": "PL_182.la.md",
+      "author": "S. Bernardus Claraevallensis (Epistolae et Tractatus)",
+      "status": "converted"
+    },
+    "183": {
+      "file": "PL_183.la.md",
+      "author": "S. Bernardus Claraevallensis (Sermones de Tempore et de Sanctis)",
+      "status": "converted"
+    },
+    "184": {
+      "file": "PL_184.la.md",
+      "author": "S. Bernardus Claraevallensis (Sermones in Cantica Canticorum)",
+      "status": "converted"
+    },
+    "185": {
+      "file": "PL_185.la.md",
+      "author": "S. Bernardus Claraevallensis (Vita Prima, Documenta Coaeva)",
+      "status": "converted"
+    },
+    "186": {
+      "file": "PL_186.la.md",
+      "author": "Patres Latini Saeculi (Volumen 186)",
+      "status": "converted"
+    },
+    "187": {
+      "file": "PL_187.la.md",
+      "author": "Patres Latini Saeculi (Volumen 187)",
+      "status": "converted"
+    },
+    "188": {
+      "file": "PL_188.la.md",
+      "author": "Patres Latini Saeculi (Volumen 188)",
+      "status": "converted"
+    },
+    "189": {
+      "file": "PL_189.la.md",
+      "author": "Patres Latini Saeculi (Volumen 189)",
+      "status": "converted"
+    },
+    "190": {
+      "file": "PL_190.la.md",
+      "author": "Patres Latini Saeculi (Volumen 190)",
+      "status": "converted"
+    },
+    "191": {
+      "file": "PL_191.la.md",
+      "author": "Patres Latini Saeculi (Volumen 191)",
+      "status": "converted"
+    },
+    "192": {
+      "file": "PL_192.la.md",
+      "author": "Patres Latini Saeculi (Volumen 192)",
+      "status": "converted"
+    },
+    "193": {
+      "file": "PL_193.la.md",
+      "author": "Patres Latini Saeculi (Volumen 193)",
+      "status": "converted"
+    },
+    "194": {
+      "file": "PL_194.la.md",
+      "author": "Patres Latini Saeculi (Volumen 194)",
+      "status": "converted"
+    },
+    "195": {
+      "file": "PL_195.la.md",
+      "author": "Patres Latini Saeculi (Volumen 195)",
+      "status": "converted"
+    },
+    "196": {
+      "file": "PL_196.la.md",
+      "author": "Patres Latini Saeculi (Volumen 196)",
+      "status": "converted"
+    },
+    "197": {
+      "file": "PL_197.la.md",
+      "author": "Patres Latini Saeculi (Volumen 197)",
+      "status": "converted"
+    },
+    "198": {
+      "file": "PL_198.la.md",
+      "author": "Patres Latini Saeculi (Volumen 198)",
+      "status": "converted"
+    },
+    "199": {
+      "file": "PL_199.la.md",
+      "author": "Patres Latini Saeculi (Volumen 199)",
+      "status": "converted"
+    },
+    "200": {
+      "file": "PL_200.la.md",
+      "author": "Patres Latini Saeculi (Volumen 200)",
+      "status": "converted"
+    },
+    "201": {
+      "file": "PL_201.la.md",
+      "author": "Patres Latini Saeculi (Volumen 201)",
+      "status": "converted"
+    },
+    "202": {
+      "file": "PL_202.la.md",
+      "author": "Patres Latini Saeculi (Volumen 202)",
+      "status": "converted"
+    },
+    "203": {
+      "file": "PL_203.la.md",
+      "author": "Patres Latini Saeculi (Volumen 203)",
+      "status": "converted"
+    },
+    "204": {
+      "file": "PL_204.la.md",
+      "author": "Patres Latini Saeculi (Volumen 204)",
+      "status": "converted"
+    },
+    "205": {
+      "file": "PL_205.la.md",
+      "author": "Patres Latini Saeculi (Volumen 205)",
+      "status": "converted"
+    },
+    "206": {
+      "file": "PL_206.la.md",
+      "author": "Patres Latini Saeculi (Volumen 206)",
+      "status": "converted"
+    },
+    "207": {
+      "file": "PL_207.la.md",
+      "author": "Patres Latini Saeculi (Volumen 207)",
+      "status": "converted"
+    },
+    "208": {
+      "file": "PL_208.la.md",
+      "author": "Patres Latini Saeculi (Volumen 208)",
+      "status": "converted"
+    },
+    "209": {
+      "file": "PL_209.la.md",
+      "author": "Patres Latini Saeculi (Volumen 209)",
+      "status": "converted"
+    },
+    "210": {
+      "file": "PL_210.la.md",
+      "author": "Patres Latini Saeculi (Volumen 210)",
+      "status": "converted"
+    },
+    "211": {
+      "file": "PL_211.la.md",
+      "author": "Patres Latini Saeculi (Volumen 211)",
+      "status": "converted"
+    },
+    "212": {
+      "file": "PL_212.la.md",
+      "author": "Patres Latini Saeculi (Volumen 212)",
+      "status": "converted"
+    },
+    "213": {
+      "file": "PL_213.la.md",
+      "author": "Patres Latini Saeculi (Volumen 213)",
+      "status": "converted"
+    },
+    "214": {
+      "file": "PL_214.la.md",
+      "author": "Patres Latini Saeculi (Volumen 214)",
+      "status": "converted"
+    },
+    "215": {
+      "file": "PL_215.la.md",
+      "author": "Patres Latini Saeculi (Volumen 215)",
+      "status": "converted"
+    },
+    "216": {
+      "file": "PL_216.la.md",
+      "author": "Patres Latini Saeculi (Volumen 216)",
+      "status": "converted"
+    },
+    "217": {
+      "file": "PL_217.la.md",
+      "author": "Patres Latini Saeculi (Volumen 217)",
+      "status": "converted"
+    },
+    "218": {
+      "file": "PL_218.la.md",
+      "author": "Patres Latini Saeculi (Volumen 218)",
+      "status": "converted"
+    },
+    "219": {
+      "file": "PL_219.la.md",
+      "author": "Patres Latini Saeculi (Volumen 219)",
+      "status": "converted"
+    },
+    "220": {
+      "file": "PL_220.la.md",
+      "author": "Patres Latini Saeculi (Volumen 220)",
+      "status": "converted"
+    },
+    "221": {
+      "file": "PL_221.la.md",
+      "author": "Patres Latini Saeculi (Volumen 221)",
+      "status": "converted"
+    }
+  },
+  "PG": {
+    "1": {
+      "file": "PG_001.grc.md",
+      "author": "S. Clemens Romanus, S. Barnabas, Hermas (Patres Apostolici)",
+      "status": "converted"
+    },
+    "2": {
+      "file": "PG_002.grc.md",
+      "author": "S. Ignatius Antiochenus, S. Polycarpus, Papias Hierapolitanus",
+      "status": "converted"
+    },
+    "3": {
+      "file": "PG_003.grc.md",
+      "author": "Pseudo-Dionysius Areopagita (De Divinis Nominibus, De Mystica Theologia)",
+      "status": "converted"
+    },
+    "4": {
+      "file": "PG_004.grc.md",
+      "author": "Pseudo-Dionysius Areopagita (Epistolae, Scholia S. Maximi)",
+      "status": "converted"
+    },
+    "5": {
+      "file": "PG_005.grc.md",
+      "author": "S. Iustinus Martyr (Apologia I & II, Dialogus cum Tryphone)",
+      "status": "converted"
+    },
+    "6": {
+      "file": "PG_006.grc.md",
+      "author": "Tatianus, Athenagoras, S. Theophilus Antiochenus, Hermias",
+      "status": "converted"
+    },
+    "7": {
+      "file": "PG_007.grc.md",
+      "author": "S. Irenaeus Lugdunensis (Adversus Haereses Libri V)",
+      "status": "converted"
+    },
+    "8": {
+      "file": "PG_008.grc.md",
+      "author": "Clemens Alexandrinus (Protrepticus, Paedagogus)",
+      "status": "converted"
+    },
+    "9": {
+      "file": "PG_009.grc.md",
+      "author": "Clemens Alexandrinus (Stromata Libri I-VIII)",
+      "status": "converted"
+    },
+    "10": {
+      "file": "PG_010.grc.md",
+      "author": "S. Gregorius Thaumaturgus, S. Methodius Olympius",
+      "status": "converted"
+    },
+    "11": {
+      "file": "PG_011.grc.md",
+      "author": "Origenes Adamantius (De Principiis, De Oratione, Exhortatio ad Martyrium)",
+      "status": "converted"
+    },
+    "12": {
+      "file": "PG_012.grc.md",
+      "author": "Origenes Adamantius (Homiliae in Scripturas I: Genesis - Cantica)",
+      "status": "converted"
+    },
+    "13": {
+      "file": "PG_013.grc.md",
+      "author": "Origenes Adamantius (Homiliae in Scripturas II: Isaias - Novum Testamentum)",
+      "status": "converted"
+    },
+    "14": {
+      "file": "PG_014.grc.md",
+      "author": "Origenes Adamantius (Commentarii in Evangelium Ioannis et Epistolam ad Romanos)",
+      "status": "converted"
+    },
+    "15": {
+      "file": "PG_015.grc.md",
+      "author": "Origenes Adamantius (Contra Celsum Libri I-VIII)",
+      "status": "converted"
+    },
+    "16": {
+      "file": "PG_016.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 16)",
+      "status": "converted"
+    },
+    "17": {
+      "file": "PG_017.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 17)",
+      "status": "converted"
+    },
+    "18": {
+      "file": "PG_018.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 18)",
+      "status": "converted"
+    },
+    "19": {
+      "file": "PG_019.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 19)",
+      "status": "converted"
+    },
+    "20": {
+      "file": "PG_020.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 20)",
+      "status": "converted"
+    },
+    "21": {
+      "file": "PG_021.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 21)",
+      "status": "converted"
+    },
+    "22": {
+      "file": "PG_022.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 22)",
+      "status": "converted"
+    },
+    "23": {
+      "file": "PG_023.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 23)",
+      "status": "converted"
+    },
+    "24": {
+      "file": "PG_024.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 24)",
+      "status": "converted"
+    },
+    "25": {
+      "file": "PG_025.grc.md",
+      "author": "S. Athanasius Alexandrinus (Oratio contra Gentes, De Incarnatione Verbi)",
+      "status": "converted"
+    },
+    "26": {
+      "file": "PG_026.grc.md",
+      "author": "S. Athanasius Alexandrinus (Orationes contra Arianos IV, Epistolae)",
+      "status": "converted"
+    },
+    "27": {
+      "file": "PG_027.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 27)",
+      "status": "converted"
+    },
+    "28": {
+      "file": "PG_028.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 28)",
+      "status": "converted"
+    },
+    "29": {
+      "file": "PG_029.grc.md",
+      "author": "S. Basilius Magnus (Adversus Eunomium, Hexaemeron)",
+      "status": "converted"
+    },
+    "30": {
+      "file": "PG_030.grc.md",
+      "author": "S. Basilius Magnus (De Spiritu Sancto, Homiliae Variae)",
+      "status": "converted"
+    },
+    "31": {
+      "file": "PG_031.grc.md",
+      "author": "S. Basilius Magnus (Regulae Fusius et Brevius Tractatae, Epistolae)",
+      "status": "converted"
+    },
+    "32": {
+      "file": "PG_032.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 32)",
+      "status": "converted"
+    },
+    "33": {
+      "file": "PG_033.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 33)",
+      "status": "converted"
+    },
+    "34": {
+      "file": "PG_034.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 34)",
+      "status": "converted"
+    },
+    "35": {
+      "file": "PG_035.grc.md",
+      "author": "S. Gregorius Nazianzenus (Orationes Theologicae I-XX)",
+      "status": "converted"
+    },
+    "36": {
+      "file": "PG_036.grc.md",
+      "author": "S. Gregorius Nazianzenus (Orationes Theologicae XXI-XLV)",
+      "status": "converted"
+    },
+    "37": {
+      "file": "PG_037.grc.md",
+      "author": "S. Gregorius Nazianzenus (Poemata Dogmatica et Moralia)",
+      "status": "converted"
+    },
+    "38": {
+      "file": "PG_038.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 38)",
+      "status": "converted"
+    },
+    "39": {
+      "file": "PG_039.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 39)",
+      "status": "converted"
+    },
+    "40": {
+      "file": "PG_040.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 40)",
+      "status": "converted"
+    },
+    "41": {
+      "file": "PG_041.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 41)",
+      "status": "converted"
+    },
+    "42": {
+      "file": "PG_042.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 42)",
+      "status": "converted"
+    },
+    "43": {
+      "file": "PG_043.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 43)",
+      "status": "converted"
+    },
+    "44": {
+      "file": "PG_044.grc.md",
+      "author": "S. Gregorius Nyssenus (Contra Eunomium Libri XII)",
+      "status": "converted"
+    },
+    "45": {
+      "file": "PG_045.grc.md",
+      "author": "S. Gregorius Nyssenus (De Hominis Opificio, Oratio Catechetica)",
+      "status": "converted"
+    },
+    "46": {
+      "file": "PG_046.grc.md",
+      "author": "S. Gregorius Nyssenus (De Vita Moysis, De Anima et Resurrectione)",
+      "status": "converted"
+    },
+    "47": {
+      "file": "PG_047.grc.md",
+      "author": "S. Ioannes Chrysostomus (Adversus Oppugnatores Vitae Monasticae, De Sacerdotio)",
+      "status": "converted"
+    },
+    "48": {
+      "file": "PG_048.grc.md",
+      "author": "S. Ioannes Chrysostomus (Homiliae in Genesim, De Statuis)",
+      "status": "converted"
+    },
+    "49": {
+      "file": "PG_049.grc.md",
+      "author": "S. Ioannes Chrysostomus (Homiliae in Matthaeum I-XLIV)",
+      "status": "converted"
+    },
+    "50": {
+      "file": "PG_050.grc.md",
+      "author": "S. Ioannes Chrysostomus (Homiliae in Matthaeum XLV-XC)",
+      "status": "converted"
+    },
+    "51": {
+      "file": "PG_051.grc.md",
+      "author": "S. Ioannes Chrysostomus (Homiliae in Ioannem I-LXXXVIII)",
+      "status": "converted"
+    },
+    "52": {
+      "file": "PG_052.grc.md",
+      "author": "S. Ioannes Chrysostomus (Homiliae in Acta Apostolorum)",
+      "status": "converted"
+    },
+    "53": {
+      "file": "PG_053.grc.md",
+      "author": "S. Ioannes Chrysostomus (Homiliae in Epistolas Paulinas: Rom, 1-2 Cor)",
+      "status": "converted"
+    },
+    "54": {
+      "file": "PG_054.grc.md",
+      "author": "S. Ioannes Chrysostomus (Homiliae in Epistolas Paulinas: Gal - Hebr)",
+      "status": "converted"
+    },
+    "55": {
+      "file": "PG_055.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 55)",
+      "status": "converted"
+    },
+    "56": {
+      "file": "PG_056.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 56)",
+      "status": "converted"
+    },
+    "57": {
+      "file": "PG_057.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 57)",
+      "status": "converted"
+    },
+    "58": {
+      "file": "PG_058.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 58)",
+      "status": "converted"
+    },
+    "59": {
+      "file": "PG_059.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 59)",
+      "status": "converted"
+    },
+    "60": {
+      "file": "PG_060.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 60)",
+      "status": "converted"
+    },
+    "61": {
+      "file": "PG_061.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 61)",
+      "status": "converted"
+    },
+    "62": {
+      "file": "PG_062.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 62)",
+      "status": "converted"
+    },
+    "63": {
+      "file": "PG_063.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 63)",
+      "status": "converted"
+    },
+    "64": {
+      "file": "PG_064.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 64)",
+      "status": "converted"
+    },
+    "65": {
+      "file": "PG_065.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 65)",
+      "status": "converted"
+    },
+    "66": {
+      "file": "PG_066.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 66)",
+      "status": "converted"
+    },
+    "67": {
+      "file": "PG_067.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 67)",
+      "status": "converted"
+    },
+    "68": {
+      "file": "PG_068.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 68)",
+      "status": "converted"
+    },
+    "69": {
+      "file": "PG_069.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 69)",
+      "status": "converted"
+    },
+    "70": {
+      "file": "PG_070.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 70)",
+      "status": "converted"
+    },
+    "71": {
+      "file": "PG_071.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 71)",
+      "status": "converted"
+    },
+    "72": {
+      "file": "PG_072.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 72)",
+      "status": "converted"
+    },
+    "73": {
+      "file": "PG_073.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 73)",
+      "status": "converted"
+    },
+    "74": {
+      "file": "PG_074.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 74)",
+      "status": "converted"
+    },
+    "75": {
+      "file": "PG_075.grc.md",
+      "author": "S. Cyrillus Alexandrinus (De Adoratione in Spiritu et Veritate)",
+      "status": "converted"
+    },
+    "76": {
+      "file": "PG_076.grc.md",
+      "author": "S. Cyrillus Alexandrinus (Thesaurus de Sancta Trinitate, De Incarnatione)",
+      "status": "converted"
+    },
+    "77": {
+      "file": "PG_077.grc.md",
+      "author": "S. Cyrillus Alexandrinus (Epistolae Dogmaticae, Apologiae contra Nestorium)",
+      "status": "converted"
+    },
+    "78": {
+      "file": "PG_078.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 78)",
+      "status": "converted"
+    },
+    "79": {
+      "file": "PG_079.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 79)",
+      "status": "converted"
+    },
+    "80": {
+      "file": "PG_080.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 80)",
+      "status": "converted"
+    },
+    "81": {
+      "file": "PG_081.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 81)",
+      "status": "converted"
+    },
+    "82": {
+      "file": "PG_082.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 82)",
+      "status": "converted"
+    },
+    "83": {
+      "file": "PG_083.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 83)",
+      "status": "converted"
+    },
+    "84": {
+      "file": "PG_084.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 84)",
+      "status": "converted"
+    },
+    "85": {
+      "file": "PG_085.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 85)",
+      "status": "converted"
+    },
+    "86": {
+      "file": "PG_086.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 86)",
+      "status": "converted"
+    },
+    "87": {
+      "file": "PG_087.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 87)",
+      "status": "converted"
+    },
+    "88": {
+      "file": "PG_088.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 88)",
+      "status": "converted"
+    },
+    "89": {
+      "file": "PG_089.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 89)",
+      "status": "converted"
+    },
+    "90": {
+      "file": "PG_090.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 90)",
+      "status": "converted"
+    },
+    "91": {
+      "file": "PG_091.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 91)",
+      "status": "converted"
+    },
+    "92": {
+      "file": "PG_092.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 92)",
+      "status": "converted"
+    },
+    "93": {
+      "file": "PG_093.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 93)",
+      "status": "converted"
+    },
+    "94": {
+      "file": "PG_094.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 94)",
+      "status": "converted"
+    },
+    "95": {
+      "file": "PG_095.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 95)",
+      "status": "converted"
+    },
+    "96": {
+      "file": "PG_096.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 96)",
+      "status": "converted"
+    },
+    "97": {
+      "file": "PG_097.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 97)",
+      "status": "converted"
+    },
+    "98": {
+      "file": "PG_098.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 98)",
+      "status": "converted"
+    },
+    "99": {
+      "file": "PG_099.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 99)",
+      "status": "converted"
+    },
+    "100": {
+      "file": "PG_100.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 100)",
+      "status": "converted"
+    },
+    "101": {
+      "file": "PG_101.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 101)",
+      "status": "converted"
+    },
+    "102": {
+      "file": "PG_102.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 102)",
+      "status": "converted"
+    },
+    "103": {
+      "file": "PG_103.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 103)",
+      "status": "converted"
+    },
+    "104": {
+      "file": "PG_104.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 104)",
+      "status": "converted"
+    },
+    "105": {
+      "file": "PG_105.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 105)",
+      "status": "converted"
+    },
+    "106": {
+      "file": "PG_106.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 106)",
+      "status": "converted"
+    },
+    "107": {
+      "file": "PG_107.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 107)",
+      "status": "converted"
+    },
+    "108": {
+      "file": "PG_108.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 108)",
+      "status": "converted"
+    },
+    "109": {
+      "file": "PG_109.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 109)",
+      "status": "converted"
+    },
+    "110": {
+      "file": "PG_110.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 110)",
+      "status": "converted"
+    },
+    "111": {
+      "file": "PG_111.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 111)",
+      "status": "converted"
+    },
+    "112": {
+      "file": "PG_112.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 112)",
+      "status": "converted"
+    },
+    "113": {
+      "file": "PG_113.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 113)",
+      "status": "converted"
+    },
+    "114": {
+      "file": "PG_114.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 114)",
+      "status": "converted"
+    },
+    "115": {
+      "file": "PG_115.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 115)",
+      "status": "converted"
+    },
+    "116": {
+      "file": "PG_116.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 116)",
+      "status": "converted"
+    },
+    "117": {
+      "file": "PG_117.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 117)",
+      "status": "converted"
+    },
+    "118": {
+      "file": "PG_118.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 118)",
+      "status": "converted"
+    },
+    "119": {
+      "file": "PG_119.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 119)",
+      "status": "converted"
+    },
+    "120": {
+      "file": "PG_120.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 120)",
+      "status": "converted"
+    },
+    "121": {
+      "file": "PG_121.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 121)",
+      "status": "converted"
+    },
+    "122": {
+      "file": "PG_122.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 122)",
+      "status": "converted"
+    },
+    "123": {
+      "file": "PG_123.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 123)",
+      "status": "converted"
+    },
+    "124": {
+      "file": "PG_124.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 124)",
+      "status": "converted"
+    },
+    "125": {
+      "file": "PG_125.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 125)",
+      "status": "converted"
+    },
+    "126": {
+      "file": "PG_126.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 126)",
+      "status": "converted"
+    },
+    "127": {
+      "file": "PG_127.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 127)",
+      "status": "converted"
+    },
+    "128": {
+      "file": "PG_128.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 128)",
+      "status": "converted"
+    },
+    "129": {
+      "file": "PG_129.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 129)",
+      "status": "converted"
+    },
+    "130": {
+      "file": "PG_130.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 130)",
+      "status": "converted"
+    },
+    "131": {
+      "file": "PG_131.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 131)",
+      "status": "converted"
+    },
+    "132": {
+      "file": "PG_132.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 132)",
+      "status": "converted"
+    },
+    "133": {
+      "file": "PG_133.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 133)",
+      "status": "converted"
+    },
+    "134": {
+      "file": "PG_134.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 134)",
+      "status": "converted"
+    },
+    "135": {
+      "file": "PG_135.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 135)",
+      "status": "converted"
+    },
+    "136": {
+      "file": "PG_136.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 136)",
+      "status": "converted"
+    },
+    "137": {
+      "file": "PG_137.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 137)",
+      "status": "converted"
+    },
+    "138": {
+      "file": "PG_138.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 138)",
+      "status": "converted"
+    },
+    "139": {
+      "file": "PG_139.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 139)",
+      "status": "converted"
+    },
+    "140": {
+      "file": "PG_140.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 140)",
+      "status": "converted"
+    },
+    "141": {
+      "file": "PG_141.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 141)",
+      "status": "converted"
+    },
+    "142": {
+      "file": "PG_142.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 142)",
+      "status": "converted"
+    },
+    "143": {
+      "file": "PG_143.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 143)",
+      "status": "converted"
+    },
+    "144": {
+      "file": "PG_144.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 144)",
+      "status": "converted"
+    },
+    "145": {
+      "file": "PG_145.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 145)",
+      "status": "converted"
+    },
+    "146": {
+      "file": "PG_146.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 146)",
+      "status": "converted"
+    },
+    "147": {
+      "file": "PG_147.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 147)",
+      "status": "converted"
+    },
+    "148": {
+      "file": "PG_148.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 148)",
+      "status": "converted"
+    },
+    "149": {
+      "file": "PG_149.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 149)",
+      "status": "converted"
+    },
+    "150": {
+      "file": "PG_150.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 150)",
+      "status": "converted"
+    },
+    "151": {
+      "file": "PG_151.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 151)",
+      "status": "converted"
+    },
+    "152": {
+      "file": "PG_152.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 152)",
+      "status": "converted"
+    },
+    "153": {
+      "file": "PG_153.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 153)",
+      "status": "converted"
+    },
+    "154": {
+      "file": "PG_154.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 154)",
+      "status": "converted"
+    },
+    "155": {
+      "file": "PG_155.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 155)",
+      "status": "converted"
+    },
+    "156": {
+      "file": "PG_156.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 156)",
+      "status": "converted"
+    },
+    "157": {
+      "file": "PG_157.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 157)",
+      "status": "converted"
+    },
+    "158": {
+      "file": "PG_158.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 158)",
+      "status": "converted"
+    },
+    "159": {
+      "file": "PG_159.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 159)",
+      "status": "converted"
+    },
+    "160": {
+      "file": "PG_160.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 160)",
+      "status": "converted"
+    },
+    "161": {
+      "file": "PG_161.grc.md",
+      "author": "Patres Graeci Saeculi (Volumen 161)",
+      "status": "converted"
+    }
+  },
+  "Corpus_Augustinianum": {
+    "status": "complete",
+    "location": "Corpus_Augustinianum",
+    "total_files": 282,
+    "genuine_works": 203,
+    "pseudo_augustine": 45,
+    "other_witnesses_and_vitae": 33,
+    "editions": [
+      "CSEL (Österreichische Akademie)",
+      "Migne PL (Corpus Corporum TEI)"
+    ],
+    "description": "Individual markdown files per treatise, character-verified against Corpus Corporum TEI and CSEL critical editions, replacing the monolithic volume dumps of PL 32-47."
+  }
+}
